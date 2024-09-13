@@ -54,7 +54,7 @@ where s.rnk = 1;
 
 
 
-/***3) Which city genrerates most revenue?***/
+/***3) Which city generates most revenue?***/
 
 
 
