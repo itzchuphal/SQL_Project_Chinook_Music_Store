@@ -25,7 +25,7 @@ This project delves into the analysis of Chinook Music Store, uncovering diverse
 
 
 ### 7. Identify all the albums who have less then 5 track under them. 
-###### Display the album name, artist name and the no of tracks in the respective album.
+###    Display the album name, artist name and the no of tracks in the respective album.
 
 
 ### 8. Display the track, album, artist and the genre for all tracks which are not purchased.
@@ -38,12 +38,12 @@ This project delves into the analysis of Chinook Music Store, uncovering diverse
 
 
 ### 11. Identify if there are tracks more expensive than others. 
-####### If there are, then display the track name along with the album title and artist name for these expensive tracks.
+###     If there are, then display the track name along with the album title and artist name for these expensive tracks.
 
 
 ### 12. Identify the 5 most popular artist for the most popular genre.
-####### Popularity is defined based on how many songs an artist has performed in for the particular genre.
-####### Display the artist name along with the no of songs.
+###     Popularity is defined based on how many songs an artist has performed in for the particular genre.
+###     Display the artist name along with the no of songs.
 
 
 ### 13. Find the artist who has contributed with the maximum no of songs/tracks. Display the artist name and the no of songs.
